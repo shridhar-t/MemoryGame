@@ -12,7 +12,6 @@ This was achieved by jQuery,DOM manipulation,CSS3 and HTMl5 and event handling (
 <img src="./images/project2.png">
 <img src="./images/project3.png">
 
-
-
+### P.S. you may want to download the files and then play because there might be sound lag on the github.io page.
 ### I was not able to get beyond Level 20. Probably you can beat that :-/.
 
