@@ -10,5 +10,5 @@ This was achieved by jQuery,DOM manipulation,CSS3 and HTMl5 and event handling (
 ### ScreenShots
 <img src="/images/project.png">
 
-## I was not able to get beyond Level 20. Probably you can beat that.
+### I was not able to get beyond Level 20. Probably you can beat that.
 
