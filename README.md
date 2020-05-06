@@ -8,7 +8,7 @@ https://shridhar-t.github.io/MemoryGame
 This was achieved by jQuery,DOM manipulation,CSS3 and HTMl5 and event handling (keydown and click events).
 
 ### ScreenShots
-<img src="/images/project.png">
+<img src="project.png">
 
 ### I was not able to get beyond Level 20. Probably you can beat that.
 
